@@ -1,0 +1,29 @@
+.ads{
+
+    width: 100%;
+    position: relative;
+    top: 48px;
+    padding:  0 20px; 
+    margin-top: 10px;
+}
+
+.ads img{
+    width: 100%;
+
+    
+}
+
+.category{
+    display: flex;
+    gap: 25px;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.category .link{
+    text-decoration: none;
+}
+
+.banner{
+    margin-top: 10px ;
+}

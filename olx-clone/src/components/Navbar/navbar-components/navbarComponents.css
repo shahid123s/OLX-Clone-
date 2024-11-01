@@ -1,0 +1,21 @@
+.navbar-search{
+    width: 700px;
+    padding: 10px;
+    color: rgb(0, 47, 52);
+}
+
+.search {
+    display: flex;
+    align-items: center;
+    color: rgb(0, 47, 52);
+    justify-content: center;
+}
+
+
+.search-btn{
+    background-color: rgb(0, 47, 52);
+
+    padding: 10px;
+    color: rgb(255, 255, 255);
+
+}

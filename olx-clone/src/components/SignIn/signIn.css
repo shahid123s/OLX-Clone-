@@ -1,0 +1,53 @@
+.signIn-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.signIn-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 150px;
+    width: 450px;
+    height: 500px;
+    border: .9px solid black;
+    border-radius: 30px;
+    background-color: #e3e2e2;
+
+    
+}
+.signIn-box .content {
+    margin: 70px;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+
+}
+.signIn-box img{ 
+    width: 40%;
+    border-radius: 20px;
+}
+
+.signIn-box form {
+
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+
+}
+
+.signIn-box form input {
+    border: .6px solid black ;
+    border-radius: 6px;
+    padding: 6px;
+}
+
+.signIn-box form input::placeholder{
+    color : rgb(48, 46, 46)
+}
